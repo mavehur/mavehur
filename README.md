@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hello, I'm Mave.
-I study computer science at UBC.
+I study computer science at UBC on Vancouver campus
 
 <!--
 **ruhevam/ruhevam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
