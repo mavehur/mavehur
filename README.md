@@ -1,5 +1,9 @@
 # Mave Hur 
-- 👩‍💻 Computer science 3rd year student @ University of British Columbia, Canada
+- 👩‍💻 Computer science 3rd year (BCS) student @ University of British Columbia, Canada
+- 📚 Hold a BA in English language and literature
+- ❤️‍🔥 Love to stay active 🏊‍♀️🏃‍♀️🏋️‍♀️🧘‍♀️🏔🎿🤿🐠🎨
+
+# Let's connect!
 - 📧 Email: jmavehur@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/mavehur/
 
